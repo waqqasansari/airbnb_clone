@@ -15,7 +15,7 @@ const SearchFilters = () => {
 
           <div className="cursor-pointer lg:h-[64] px-8 flex flex-col justify-center rounded-full hover:bg-gray-100">
             <p className="text-xs font-semibold">Chect out</p>
-            <p className="text-sm">Add dates </p>
+            <p className="text-sm">Add dates</p>
           </div>
 
           <div className="cursor-pointer lg:h-[64] px-8 flex flex-col justify-center rounded-full hover:bg-gray-100">
