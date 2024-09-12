@@ -60,7 +60,7 @@ const UserNav = () => {
             onClick={() => {
               console.log("Clicked Button");
               setIsOpen(false);
-              signupModal.open;
+              signupModal.open();
             }}
           />
         </div>
