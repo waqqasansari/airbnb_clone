@@ -20,8 +20,8 @@ services:
       - postgres_data:/var/lib/postgresql/data/
     environment:
       - POSTGRES_USER=postgresuser
-      - POSTGRES_PASSWORD=postgespassword
+      - POSTGRES_PASSWORD=postgrespassword
       - POSTGRES_DB=djangobnb
 
 volumes:
-  postgres_data: 
+  postgres_data:
